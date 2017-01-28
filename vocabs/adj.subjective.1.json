@@ -1,0 +1,137 @@
+[
+  {
+    "es": "serio(a)",
+    "en": "serious",
+    "fi": "vakava"
+  },
+  {
+    "es": "alegre",
+    "en": "cheerful",
+    "fi": "hilpeä"
+  },
+  {
+    "es": "feliz",
+    "en": "happy",
+    "fi": "iloinen"
+  },
+  {
+    "es": "intelectual",
+    "en": "intellectual",
+    "fi": "intellektuelli, älyllinen"
+  },
+  {
+    "es": "inteligente",
+    "en": "intelligent",
+    "fi": "älykäs"
+  },
+  {
+    "es": "perezoso(a)",
+    "en": "lazy",
+    "fi": "laiska"
+  },
+  {
+    "es": "trabajador(a)",
+    "en": "hardworking",
+    "fi": "ahkera"
+  },
+  {
+    "es": "simpático(a)",
+    "en": "friendly",
+    "fi": "mukava, symppis"
+  },
+  {
+    "es": "antipático(a)",
+    "en": "unfriendly",
+    "fi": "epäystävällinen"
+  },
+  {
+    "es": "estudioso(a)",
+    "en": "studious",
+    "fi": "lukutoukka"
+  },
+  {
+    "es": "popular",
+    "en": "popular",
+    "fi": "suosittu"
+  },
+  {
+    "es": "conservador(a)",
+    "en": "conservative",
+    "fi": "konservatiivinen"
+  },
+  {
+    "es": "liberal",
+    "en": "liberal",
+    "fi": "liberaali, vapaamielinen"
+  },
+  {
+    "es": "bueno(a)",
+    "en": "good (hearted)",
+    "fi": "hyvä"
+  },
+  {
+    "es": "responsable",
+    "en": "responsible",
+    "fi": "vastuullinen"
+  },
+  {
+    "es": "irresponsable",
+    "en": "irresponsible",
+    "fi": "vastuuton"
+  },
+  {
+    "es": "tímido(a)",
+    "en": "shy",
+    "fi": "arka, ujo"
+  },
+  {
+    "es": "agresivo(a)",
+    "en": "agressive",
+    "fi": "agressiivinen"
+  },
+  {
+    "es": "elegante",
+    "en": "elegant",
+    "fi": "elegantti"
+  },
+  {
+    "es": "sofisticado(a)",
+    "en": "sophisticated",
+    "fi": "monimutkainen"
+  },
+  {
+    "es": "divertido(a)",
+    "en": "funny, amusing",
+    "fi": "hauska"
+  },
+  {
+    "es": "activo(a)",
+    "en": "active",
+    "fi": "aktiivinen"
+  },
+  {
+    "es": "vivo(a)",
+    "en": "vivacious",
+    "fi": "eläväinen"
+  },
+  {
+    "es": "listo(a)",
+    "en": "clever",
+    "fi": "fiksu"
+  },
+  {
+    "es": "tonto(a)",
+    "en": "fool",
+    "fi": "tyhmä"
+  },
+  {
+    "es": "cariñoso(a)",
+    "en": "caring, loving",
+    "fi": "välittävä"
+  },
+  {
+    "es": "seco(a)",
+    "en": "dry, plain",
+    "fi": "kuiva, pelkistetty"
+  }
+]

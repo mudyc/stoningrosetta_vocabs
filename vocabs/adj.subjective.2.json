@@ -1,0 +1,172 @@
+[
+  {
+    "es": "paciente",
+    "en": "patient",
+    "fi": "kärsivällinen"
+  },
+  {
+    "es": "impaciente",
+    "en": "impatient",
+    "fi": "kärsimätön"
+  },
+  {
+    "es": "hablador(a)",
+    "en": "talkative",
+    "fi": "puhelias"
+  },
+  {
+    "es": "callado(a)",
+    "en": "quiet",
+    "fi": "hiljainen"
+  },
+  {
+    "es": "generoso(a)",
+    "en": "generous",
+    "fi": "antelias, reilu"
+  },
+  {
+    "es": "egoista",
+    "en": "egotistical",
+    "fi": "itsekeskeinen"
+  },
+  {
+    "es": "cruel",
+    "en": "cruel",
+    "fi": "julma"
+  },
+  {
+    "es": "famoso(a)",
+    "en": "famous",
+    "fi": "kuuluisa"
+  },
+  {
+    "es": "importante",
+    "en": "important",
+    "fi": "tärkeä"
+  },
+  {
+    "es": "ambicioso(a)",
+    "en": "ambitious",
+    "fi": "kunnianhimoinen"
+  },
+  {
+    "es": "conformista",
+    "en": "conformist",
+    "fi": "sovinnainen"
+  },
+  {
+    "es": "cómico(a)",
+    "en": "funny, comical",
+    "fi": "hauska"
+  },
+  {
+    "es": "sincero(a)",
+    "en": "honest",
+    "fi": "vilpitön"
+  },
+  {
+    "es": "honesto(a)",
+    "en": "honest",
+    "fi": "rehellinen"
+  },
+  {
+    "es": "materialista",
+    "en": "materialistic",
+    "fi": "materialistinen"
+  },
+  {
+    "es": "idealista",
+    "en": "idealist",
+    "fi": "idealisti"
+  },
+  {
+    "es": "realista",
+    "en": "realistic",
+    "fi": "realistinen"
+  },
+  {
+    "es": "fiel",
+    "en": "faitful",
+    "fi": "uskollinen"
+  },
+  {
+    "es": "infiel",
+    "en": "unfaitful",
+    "fi": "uskoton"
+  },
+  {
+    "es": "curioso(a)",
+    "en": "curious",
+    "fi": "utelias"
+  },
+  {
+    "es": "persistente",
+    "en": "persistent",
+    "fi": "sinnikäs"
+  },
+  {
+    "es": "independiente",
+    "en": "independent",
+    "fi": "itsenäinen"
+  },
+  {
+    "es": "aburrido(a)",
+    "en": "boring",
+    "fi": "tylsä"
+  },
+  {
+    "es": "nervioso(a)",
+    "en": "nervous",
+    "fi": "hermostunut"
+  },
+  {
+    "es": "optimista",
+    "en": "optimistic",
+    "fi": "optimisti"
+  },
+  {
+    "es": "pesimista",
+    "en": "pessimistic",
+    "fi": "pessimistinen"
+  },
+  {
+    "es": "práctico(a)",
+    "en": "practical",
+    "fi": "käytännöllinen"
+  },
+  {
+    "es": "sarcástico(a)",
+    "en": "sarcastic",
+    "fi": "sarkastinen"
+  },
+  {
+    "es": "misterioso(a)",
+    "en": "mysterious",
+    "fi": "salaperäinen"
+  },
+  {
+    "es": "mentiroso(a)",
+    "en": "lier",
+    "fi": "valehtelija"
+  },
+  {
+    "es": "creativo(a)",
+    "en": "creative",
+    "fi": "luova"
+  },
+  {
+    "es": "inestable",
+    "en": "unstable",
+    "fi": "epävakaa"
+  },
+  {
+    "es": "inseguro(a)",
+    "en": "insecure",
+    "fi": "epävarma"
+  },
+  {
+    "es": "confiable",
+    "en": "reliable",
+    "fi": "luotettava"
+  }
+]

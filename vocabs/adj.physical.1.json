@@ -1,0 +1,147 @@
+[
+  {
+    "es": "rubio(a)",
+    "en": "blond",
+    "fi": "vaalea ihminen"
+  },
+  {
+    "es": "moreno(a)",
+    "en": "brunette",
+    "fi": "tumma ihminen"
+  },
+  {
+    "es": "alto(a)",
+    "en": "long",
+    "fi": "pitkä"
+  },
+  {
+    "es": "bajo(a)",
+    "en": "short",
+    "fi": "lyhyt"
+  },
+  {
+    "es": "gordo(a)",
+    "en": "fat",
+    "fi": "lihava"
+  },
+  {
+    "es": "delgado(a)",
+    "en": "thin",
+    "fi": "hoikka"
+  },
+  {
+    "es": "fuerte",
+    "en": "strong",
+    "fi": "vahva"
+  },
+  {
+    "es": "atlético(a)",
+    "en": "athletic",
+    "fi": "atleettinen"
+  },
+  {
+    "es": "débil",
+    "en": "weak",
+    "fi": "heikko"
+  },
+  {
+    "es": "hermoso(a)",
+    "en": "beautiful",
+    "fi": "kaunis"
+  },
+  {
+    "es": "guapo(a)",
+    "en": "hadsome,goodlooking",
+    "fi": "komea"
+  },
+  {
+    "es": "lindo(a)",
+    "en": "cute",
+    "fi": "söpö"
+  },
+  {
+    "es": "bonito(a)",
+    "en": "pretty",
+    "fi": "nätti"
+  },
+  {
+    "es": "feo(a)",
+    "en": "ugly",
+    "fi": "ruma"
+  },
+  {
+    "es": "jóven",
+    "en": "young",
+    "fi": "nuori"
+  },
+  {
+    "es": "viejo(a), mayor",
+    "en": "old",
+    "fi": "vanha"
+  },
+  {
+    "es": "de mediana edad",
+    "en": "middle aged",
+    "fi": "keski-ikäinen"
+  },
+  {
+    "es": "grande",
+    "en": "big",
+    "fi": "iso"
+  },
+  {
+    "es": "pequño(a)",
+    "en": "small",
+    "fi": "pieni"
+  },
+  {
+    "es": "saludable",
+    "en": "healthy",
+    "fi": "terveellinen"
+  },
+  {
+    "es": "enfermizo(a)",
+    "en": "sickly",
+    "fi": "heikko, sairaalloinen"
+  },
+  {
+    "es": "calvo(a)",
+    "en": "bold",
+    "fi": "karski"
+  },
+  {
+    "es": "canoso(a)",
+    "en": "gray-haired",
+    "fi": "harmaahapsi"
+  },
+  {
+    "es": "peludo(a)",
+    "en": "hairy",
+    "fi": "karvainen"
+  },
+  {
+    "es": "lacio",
+    "en": "straight (hair)",
+    "fi": "suorahiuksinen"
+  },
+  {
+    "es": "rizado",
+    "en": "curly (hair)",
+    "fi": "kiharat hiukset"
+  },
+  {
+    "es": "ondulado",
+    "en": "wavy (hair)",
+    "fi": "aaltoilevat hiukset"
+  },
+  {
+    "es": "ojos",
+    "en": "eyes",
+    "fi": "silmät"
+  },
+  {
+    "es": "nariz",
+    "en": "nose",
+    "fi": "nenä"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "es": "lana",
+    "en": "wool",
+    "fi": "villa"
+  },
+  {
+    "es": "algodón",
+    "en": "cotton",
+    "fi": "puuvilla"
+  },
+  {
+    "es": "poliester",
+    "en": "polyester",
+    "fi": "polyesteri"
+  },
+  {
+    "es": "seda",
+    "en": "silk",
+    "fi": "silkki"
+  },
+  {
+    "es": "nilón",
+    "en": "nylon",
+    "fi": "nailon"
+  },
+  {
+    "es": "cuero, piel",
+    "en": "leather",
+    "fi": "nahka"
+  },
+  {
+    "es": "plástico",
+    "en": "plastic",
+    "fi": "muovi"
+  },
+  {
+    "es": "pana, terciopelo",
+    "en": "velvet",
+    "fi": "sametti"
+  },
+  {
+    "es": "paño",
+    "en": "cloth",
+    "fi": "frotee"
+  },
+  {
+    "es": "satén",
+    "en": "satin",
+    "fi": "satiini"
+  },
+  {
+    "es": "tejido de punto",
+    "en": "knitting",
+    "fi": "neule"
+  }
+]
