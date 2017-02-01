@@ -9,7 +9,7 @@ for vocab in vocabs:
     try:
         with open(join('vocabs', vocab)) as data_file:
             data = json.load(data_file)
-            metas[vocab] = {
+            metas[vocab[:-5]] = {
                 'depends': data['depends'],
                 'langs': data['langs'],
             }
