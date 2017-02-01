@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Material de ropa",
+    "en": "Cloths material",
+    "fi": "Vaatemateriaalit"
+  },
+  "data": [
   {
     "es": "lana",
     "en": "wool",
@@ -55,3 +62,4 @@
     "fi": "neule"
   }
 ]
+}

@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Estampados de ropas",
+    "en": "Cloths stamps",
+    "fi": "Vaatekuviot"
+  },
+  "data": [
   {
     "es": "de lunares",
     "en": "polka dot",
@@ -25,3 +32,4 @@
     "fi": "kuviollinen"
   }
 ]
+}

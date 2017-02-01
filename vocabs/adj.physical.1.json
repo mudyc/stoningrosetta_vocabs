@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Adjectivos physical",
+    "en": "Physical adjectives",
+    "fi": "Fyysiset adjektiivit"
+  },
+  "data": [
   {
     "es": "rubio(a)",
     "en": "blond",
@@ -145,3 +152,4 @@
     "fi": "nenä"
   }
 ]
+}

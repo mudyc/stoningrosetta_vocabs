@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Chatear 1",
+    "en": "Small talk 1",
+    "fi": "Jutustelu 1"
+  },
+  "data": [
   {
     "dir": ">",
     "en": "Hi, how are you?",
@@ -47,5 +54,5 @@
     "es": "Encantado también",
     "fi": "Hauska tutustua myös"
   }
-
 ]
+}

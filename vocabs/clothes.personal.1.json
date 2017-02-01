@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Ropas personnel",
+    "en": "Personal clothes",
+    "fi": "Henkilökohtaiset vaatteet"
+  },
+  "data": [
   {
     "es": "una corbata",
     "en": "tie",
@@ -70,3 +77,4 @@
     "fi": "rannerengas"
   }
 ]
+}

@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Adjectivos subjectivos",
+    "en": "Subjective adjectives",
+    "fi": "Subjektiiviset adjektiivit"
+  },
+  "data": [
   {
     "es": "paciente",
     "en": "patient",
@@ -170,3 +177,4 @@
     "fi": "luotettava"
   }
 ]
+}

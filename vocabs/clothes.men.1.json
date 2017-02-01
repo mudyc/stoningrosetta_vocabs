@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Las ropas de hombres",
+    "en": "Men cloths",
+    "fi": "Miesten vaatteet"
+  },
+  "data": [
   {
     "es": "ropa para caballeros",
     "en": "men's clothes",
@@ -90,3 +97,4 @@
     "fi": "sukat"
   }
 ]
+}

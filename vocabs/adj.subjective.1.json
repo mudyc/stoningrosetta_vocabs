@@ -1,4 +1,11 @@
-[
+{
+  "depends": [],
+  "langs": {
+    "es": "Adjectivos subjectivos",
+    "en": "Subjective adjectives",
+    "fi": "Subjektiiviset adjektiivit"
+  },
+  "data": [
   {
     "es": "serio(a)",
     "en": "serious",
@@ -135,3 +142,4 @@
     "fi": "kuiva, pelkistetty"
   }
 ]
+}

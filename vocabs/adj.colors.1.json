@@ -1,6 +1,12 @@
-
-[
-  {
+{
+  "depends": [],
+  "langs": {
+    "es": "Colores 1",
+    "en": "Colors 1",
+    "fi": "Värit 1"
+  },
+  "data": [
+    {
     "color": "#FFFF00",
     "es": "amarillo",
     "en": "yellow",
@@ -48,4 +54,5 @@
     "en": "black",
     "fi": "musta"
   }
-]
+  ]
+}
