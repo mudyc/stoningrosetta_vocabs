@@ -1,0 +1,65 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Gustar",
+    "en": "Like",
+    "fi": "Pitää"
+  },
+  "data": [
+    {
+    "es": "Te gustan los coches",
+    "en": "You like cars",
+    "fi": "Pidät autoista"
+  },
+  {
+    "es": "No le gusta bailar",
+    "en": "He doesn't like to dance",
+    "fi": "Hän ei pidä tanssimisesta"
+  },
+  {
+    "es": "Nos gustan nuestros professores",
+    "en": "We like our teachers",
+    "fi": "Pidämme opettajistamme"
+  },
+  {
+    "es": "Les gustan la historia y el español",
+    "en": "They like history and Spanish",
+    "fi": "He pitävät historiasta ja espanjasta"
+  },
+  {
+    "es": "Me gusta mucho la carne",
+    "en": "I really like meet",
+    "fi": "Pidän erityisesti lihasta"
+  },
+  {
+    "es": "No me gustan nada las verduras",
+    "en": "I don't like at all of vegetables",
+    "fi": "En pidä yhtään vihanneksista"
+  },
+  {
+    "es": "Me gusta dormir",
+    "en": "I like to sleep",
+    "fi": "Pidän nukkumisesta"
+  },
+  {
+    "es": "Me encanta dormir",
+    "en": "I love to sleep",
+    "fi": "Rakastan nukkumista"
+  },
+  {
+    "es": "Me gusta el rojo",
+    "en": "I like red",
+    "fi": "Pidän punaisesta"
+  },
+  {
+    "es": "Me encanta el color azul",
+    "en": "I love blue color",
+    "fi": "Rakastan sinistä väriä"
+  },
+  {
+    "es": "Odio el verde",
+    "en": "I hate green",
+    "fi": "Inhoan vihreää"
+  }
+  ]
+}

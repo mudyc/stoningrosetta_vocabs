@@ -1,0 +1,140 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Verbos 1",
+    "en": "Verbs 1",
+    "fi": "Verbit 1"
+  },
+  "data": [
+    {
+    "es": "Encantar",
+    "en": "Love",
+    "fi": "Rakastaa"
+  },
+  {
+    "es": "Mirar",
+    "en": "Look",
+    "fi": "Katsoa"
+  },
+  {
+    "es": "Costar",
+    "en": "Cost",
+    "fi": "Kustantaa"
+  },
+  {
+    "es": "Querer",
+    "en": "Want",
+    "fi": "Haluta"
+  },
+  {
+    "es": "Cenar",
+    "en": "Dine",
+    "fi": "Ruokailla"
+  },
+  {
+    "es": "Tener",
+    "en": "To have",
+    "fi": "Omistaa"
+  },
+  {
+    "es": "Estudiar",
+    "en": "Study",
+    "fi": "Opiskella"
+  },
+  {
+    "es": "Dormir",
+    "en": "Sleep",
+    "fi": "Nukkua"
+  },
+  {
+    "es": "Estar",
+    "en": "To be",
+    "fi": "Olla"
+  },
+  {
+    "es": "Llevar",
+    "en": "Take",
+    "fi": "Ottaa"
+  },
+  {
+    "es": "Comprar",
+    "en": "To buy",
+    "fi": "Ostaa"
+  },
+  {
+    "es": "Jugar",
+    "en": "Play",
+    "fi": "Pelata"
+  },
+  {
+    "es": "Ser",
+    "en": "Be",
+    "fi": "Olla"
+  },
+  {
+    "es": "Comer",
+    "en": "Eat",
+    "fi": "Syödä"
+  },
+  {
+    "es": "Tomar",
+    "en": "Take",
+    "fi": "Ottaa"
+  },
+  {
+    "es": "Bailar",
+    "en": "Dance",
+    "fi": "Tanssia"
+  },
+  {
+    "es": "Leer",
+    "en": "Read",
+    "fi": "Lukea"
+  },
+  {
+    "es": "Gustar",
+    "en": "Like",
+    "fi": "Pitää"
+  },
+  {
+    "es": "Beber",
+    "en": "Drink",
+    "fi": "Juoda"
+  },
+  {
+    "es": "Ir",
+    "en": "Go",
+    "fi": "Mennä"
+  },
+  {
+    "es": "Escribir",
+    "en": "Write",
+    "fi": "Kirjoittaa"
+  },
+  {
+    "es": "Caminar",
+    "en": "Walk",
+    "fi": "Kävellä"
+  },
+  {
+    "es": "Ver",
+    "en": "See",
+    "fi": "Nähdä"
+  },
+  {
+    "es": "Hablar",
+    "en": "Talk",
+    "fi": "Puhua"
+  },
+  {
+    "es": "Vivir",
+    "en": "Live",
+    "fi": "Elää"
+  },
+  {
+    "es": "Trabajar",
+    "en": "To work",
+    "fi": "Työ"
+  }
+  ]
+}
