@@ -1,0 +1,85 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Connectores 2",
+    "en": "Linking words 2",
+    "fi": "Linkityssanat 2"
+  },
+  "data": [{
+    "es": "incluso",
+    "en": "even",
+    "fi": "jopa"
+  },{
+    "es": "sin embargo",
+    "en": "however",
+    "fi": "kuitenkin"
+  },{
+    "es": "no obstante",
+    "en": "nevertheless",
+    "fi": "tästä huolimatta"
+  },{
+    "es": "a pesar de (que)",
+    "en": "despite of",
+    "fi": "siitä huolimatta"
+  },{
+    "es": "a causa de (que)",
+    "en": "because of",
+    "fi": "sen tähden"
+  },{
+    "es": "debido a (que)",
+    "en": "due to",
+    "fi": "johdosta"
+  },{
+    "es": "dado que",
+    "en": "since, given that",
+    "fi": "koska, ottaen huomioon, että"
+  },{
+    "es": "ya que",
+    "en": "since, because",
+    "fi": "sillä, koska"
+  },{
+    "es": "puesto que",
+    "en": "since, as",
+    "fi": "sillä, kuten"
+  },{
+    "es": "gracias a (que)",
+    "en": "thanks to",
+    "fi": "kiitokset"
+  },{
+    "es": "por culpa (de)",
+    "en": "because of",
+    "fi": "koska"
+  },{
+    "es": "por lo tanto/por eso",
+    "en": "therefore",
+    "fi": "sen tähden"
+  },{
+    "es": "en consecuencia",
+    "en": "in consecuence",
+    "fi": "johdosta"
+  },{
+    "es": "a saber",
+    "en": "namely",
+    "fi": "nimellisesti"
+  },{
+    "es": "para resumir",
+    "en": "to summarise",
+    "fi": "yhteenvedoksi, tehdä yhteenveto"
+  },{
+    "es": "para finalizar",
+    "en": "to conclude",
+    "fi": "lopuksi"
+  },{
+    "es": "en pocas palabras",
+    "en": "in short",
+    "fi": "lyhyesti"
+  },{
+    "es": "en resumen",
+    "en": "in summary",
+    "fi": "yhteenvetona"
+  },{
+    "es": "en definitiva",
+    "en": "in brief",
+    "fi": "lyhyesti"
+  }]
+}

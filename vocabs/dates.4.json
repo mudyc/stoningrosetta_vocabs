@@ -1,0 +1,61 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Fechas y horas 4",
+    "en": "Dates and times 4",
+    "fi": "Ajat 4"
+  },
+  "data": [{
+    "es": "primero",
+    "en": "first",
+    "fi": "ensin"
+  },{
+    "es": "después",
+    "en": "after",
+    "fi": "jälkeen"
+  },{
+    "es": "antes",
+    "en": "before",
+    "fi": "ennen"
+  },{
+    "es": "próximo/-a",
+    "en": "next",
+    "fi": "seuraava"
+  },{
+    "es": "entonces",
+    "en": "so",
+    "fi": "siis"
+  },{
+    "es": "luego",
+    "en": "then",
+    "fi": "sitten"
+  },{
+    "es": "hasta",
+    "en": "until",
+    "fi": "asti"
+  },{
+    "es": "esta semana",
+    "en": "this week",
+    "fi": "tällä viikolla"
+  },{
+    "es": "fin de semana",
+    "en": "weekend",
+    "fi": "viikonloppu"
+  },{
+    "es": "al año / por año",
+    "en": "in year",
+    "fi": "vuodessa"
+  },{
+    "es": "al mes",
+    "en": "in month",
+    "fi": "kuukaudessa"
+  },{
+    "es": "este año",
+    "en": "this year",
+    "fi": "tänä vuonna"
+  },{
+    "es": "a la semana",
+    "en": "at week",
+    "fi": "viikossa"
+  }]
+}

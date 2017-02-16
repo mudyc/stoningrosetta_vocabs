@@ -1,0 +1,61 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Fechas y horas 2",
+    "en": "Dates and times 2",
+    "fi": "Ajat 2"
+  },
+  "data": [{
+    "es": "hoy",
+    "en": "today",
+    "fi": "tänään"
+  },{
+    "es": "mañana",
+    "en": "tomorrow",
+    "fi": "huomenna"
+  },{
+    "es": "ayer",
+    "en": "yesterday",
+    "fi": "eilen"
+  },{
+    "es": "anoche",
+    "en": "yesterday evening",
+    "fi": "eilisiltana"
+  },{
+    "es": "pasado mañana",
+    "en": "day after tomorrow",
+    "fi": "ylihuomenna"
+  },{
+    "es": "anteayer",
+    "en": "day before yesterday",
+    "fi": "toissapäivänä"
+  },{
+    "es": "es temprano",
+    "en": "is early",
+    "fi": "on aikaista"
+  },{
+    "es": "es tarde",
+    "en": "is late",
+    "fi": "on myöhäistä"
+  },{
+    "es": "al mediodía",
+    "en": "at mid-day",
+    "fi": "keskipäivällä"
+  },{
+    "es": "a la medianoche",
+    "en": "at mid-night",
+    "fi": "keskiyöllä"
+  },{
+    "es": "por la noche",
+    "en": "at evening",
+    "fi": "illalla/yöllä"
+  },{
+    "es": "por la mañana",
+    "en": "at morning",
+    "fi": "aamulla"
+  },{
+    "es": "por la tarde",
+    "en": "at evening",
+    "fi": "iltapäivällä"
+  }]
+}

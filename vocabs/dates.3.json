@@ -1,0 +1,61 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Fechas y horas 3",
+    "en": "Dates and times 3",
+    "fi": "Ajat 3"
+  },
+  "data": [{
+    "es": "temprano",
+    "en": "early",
+    "fi": "aikaisin"
+  },{
+    "es": "ahora",
+    "en": "now",
+    "fi": "nyt"
+  },{
+    "es": "ahora mismo",
+    "en": "very soon",
+    "fi": "aivan kohta"
+  },{
+    "es": "pronto",
+    "en": "soon",
+    "fi": "pian"
+  },{
+    "es": "enseguida",
+    "en": "right away",
+    "fi": "heti"
+  },{
+    "es": "nunca",
+    "en": "never",
+    "fi": "ei koskaan"
+  },{
+    "es": "siempre",
+    "en": "always",
+    "fi": "aina"
+  },{
+    "es": "a veces",
+    "en": "sometimes",
+    "fi": "joskus"
+  },{
+    "es": "alguna vez",
+    "en": "ever",
+    "fi": "koskaan"
+  },{
+    "es": "rara vez",
+    "en": "rarely",
+    "fi": "harvoin"
+  },{
+    "es": "de vez en cuando",
+    "en": "occasionally",
+    "fi": "toisinaan"
+  },{
+    "es": "a menudo",
+    "en": "often",
+    "fi": "usein"
+  },{
+    "es": "en general",
+    "en": "in general",
+    "fi": "yleensä"
+  }]
+}

@@ -1,0 +1,77 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Clima 1",
+    "en": "Weather 1",
+    "fi": "Sää 1"
+  },
+  "data": [{
+    "es": "llueve",
+    "en": "rains",
+    "fi": "sataa"
+  },{
+    "es": "nieva",
+    "en": "snowing",
+    "fi": "sataa lunta"
+  },{
+    "es": "hace viento",
+    "en": "it's windy",
+    "fi": "tuulee"
+  },{
+    "es": "hace fresco",
+    "en": "it's a brisk",
+    "fi": "on viileä"
+  },{
+    "es": "hace calor",
+    "en": "it's hot",
+    "fi": "on kuuma"
+  },{
+    "es": "hace frío",
+    "en": "it's cold",
+    "fi": "on kylmä"
+  },{
+    "es": "esta nublado",
+    "en": "it's cloudy",
+    "fi": "on pilvistä"
+  },{
+    "es": "hace sol",
+    "en": "it's sunny",
+    "fi": "on aurinkoista"
+  },{
+    "es": "hace buen tiempo",
+    "en": "it's nice weather",
+    "fi": "on hyvä ilma"
+  },{
+    "es": "hace mal tiempo",
+    "en": "it's bad weather",
+    "fi": "on huono ilma"
+  },{
+    "es": "hace 15 grados",
+    "en": "it's 15 degrees",
+    "fi": "15 astetta"
+  },{
+    "es": "hace 15 grados bajo cero",
+    "en": "it's minus 15 degrees",
+    "fi": "15 astetta pakkasta"
+  },{
+    "es": "está oscuro",
+    "en": "it's dark",
+    "fi": "on pimeää"
+  },{
+    "es": "hay niebla",
+    "en": "it's foggy",
+    "fi": "on sumuista"
+  },{
+    "es": "hay luna",
+    "en": "the moon is out",
+    "fi": "kuu paistaa"
+  },{
+    "es": "hay tormenta",
+    "en": "it's storming",
+    "fi": "myrsky"
+  },{
+    "es": "hay relámpagos",
+    "en": "it's lightning",
+    "fi": "salamoi"
+  }]
+}

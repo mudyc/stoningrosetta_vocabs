@@ -1,0 +1,53 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Connectores 1",
+    "en": "Linking words 1",
+    "fi": "Linkityssanat 1"
+  },
+  "data": [{
+    "es": "y",
+    "en": "and",
+    "fi": "ja"
+  },{
+    "es": "además",
+    "en": "also, moreover",
+    "fi": "lisäksi"
+  },{
+    "es": "también",
+    "en": "too",
+    "fi": "myös"
+  },{
+    "es": "además de",
+    "en": "as well as",
+    "fi": "sekä"
+  },{
+    "es": "pero",
+    "en": "but",
+    "fi": "mutta"
+  },{
+    "es": "aunque",
+    "en": "although",
+    "fi": "siitä huolimatta"
+  },{
+    "es": "porque",
+    "en": "because",
+    "fi": "koska"
+  },{
+    "es": "como",
+    "en": "as",
+    "fi": "kuten"
+  },{
+    "es": "por ejemplo",
+    "en": "for example",
+    "fi": "esimerkiksi"
+  },{
+    "es": "entonces",
+    "en": "then",
+    "fi": "sitten"
+  },{
+    "es": "así que",
+    "en": "so",
+    "fi": "joten"
+  }]
+}
