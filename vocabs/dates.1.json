@@ -1,0 +1,101 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Fechas y horas 1",
+    "en": "Dates and times 1",
+    "fi": "Ajat 1"
+  },
+  "data": [{
+    "es": "lunes",
+    "en": "Monday",
+    "fi": "maanantai"
+  },{
+    "es": "martes",
+    "en": "Tuesday",
+    "fi": "tiistai"
+  },{
+    "es": "miércoles",
+    "en": "Wednesday",
+    "fi": "keskiviikko"
+  },{
+    "es": "jueves",
+    "en": "Thursday",
+    "fi": "torstai"
+  },{
+    "es": "viernes",
+    "en": "Friday",
+    "fi": "perjantai"
+  },{
+    "es": "sábado",
+    "en": "Saturday",
+    "fi": "lauantai"
+  },{
+    "es": "domingo",
+    "en": "Sunday",
+    "fi": "sunnuntai"
+  },{
+    "es": "enerno",
+    "en": "January",
+    "fi": "tammikuu"
+  },{
+    "es": "febrero",
+    "en": "February",
+    "fi": "helmikuu"
+  },{
+    "es": "marzo",
+    "en": "March",
+    "fi": "maaliskuu"
+  },{
+    "es": "abril",
+    "en": "April",
+    "fi": "huhtikuu"
+  },{
+    "es": "mayo",
+    "en": "May",
+    "fi": "toukokuu"
+  },{
+    "es": "junio",
+    "en": "June",
+    "fi": "kesäkuu"
+  },{
+    "es": "julio",
+    "en": "July",
+    "fi": "heinäkuu"
+  },{
+    "es": "agosto",
+    "en": "August",
+    "fi": "elokuu"
+  },{
+    "es": "septiembre",
+    "en": "September",
+    "fi": "syyskuu"
+  },{
+    "es": "octubre",
+    "en": "October",
+    "fi": "lokakuu"
+  },{
+    "es": "noviembre",
+    "en": "November",
+    "fi": "marraskuu"
+  },{
+    "es": "diciembre",
+    "en": "December",
+    "fi": "joulukuu"
+  },{
+    "es": "la primavera",
+    "en": "spring",
+    "fi": "kevät"
+  },{
+    "es": "el verano",
+    "en": "summer",
+    "fi": "kesä"
+  },{
+    "es": "el otoño",
+    "en": "autumn",
+    "fi": "syksy"
+  },{
+    "es": "el invierno",
+    "en": "winter",
+    "fi": "talvi"
+  }]
+}

@@ -1,0 +1,90 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Pronombres y adverbios interrogativos",
+    "en": "Question words",
+    "fi": "Kysymyssanat"
+  },
+  "data": [
+    {
+    "es": "¿Qué?",
+    "en": "What?",
+    "fi": "Mikä?"
+    },
+    {
+    "es": "¿Cuál?",
+    "en": "What?",
+    "fi": "Mikä?"
+    },
+    {
+    "es": "¿Cuáles?",
+    "en": "Which?",
+    "fi": "Mitkä?"
+    },
+    {
+    "es": "¿Quién?",
+    "en": "Who?",
+    "fi": "Kuka?"
+    },
+    {
+    "es": "¿Quiénes?",
+    "en": "Who? (plural)",
+    "fi": "Ketkä?"
+    },
+    {
+    "es": "¿Cuánto(a)?",
+    "en": "How much?",
+    "fi": "Kuinka paljon?"
+    },
+    {
+    "es": "¿Cuántos(as)?",
+    "en": "How many?",
+    "fi": "Kuinka monta?"
+    },
+    {
+    "es": "¿Cómo?",
+    "en": "How?",
+    "fi": "Kuinka?"
+    },
+    {
+    "es": "¿Por qué?",
+    "en": "Why?",
+    "fi": "Miksi?"
+    },
+    {
+    "es": "¿Para qué?",
+    "en": "What for?",
+    "fi": "Mitä varten?"
+    },
+    {
+    "es": "¿Dondé?",
+    "en": "Where?",
+    "fi": "Missä?"
+    },
+    {
+    "es": "¿Adondé?",
+    "en": "To where?",
+    "fi": "Minne?"
+    },
+    {
+    "es": "¿De dondé?",
+    "en": "From where?",
+    "fi": "Mistä?"
+    },
+    {
+    "es": "¿Cuándo?",
+    "en": "When?",
+    "fi": "Milloin?"
+    },
+    {
+    "es": "¿Desde cuándo?",
+    "en": "Since when?",
+    "fi": "Mistä lähtien?"
+    },
+    {
+    "es": "¿Hasta cuándo?",
+    "en": "Until when?",
+    "fi": "Mihin asti?"
+    }
+  ]
+}
