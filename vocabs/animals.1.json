@@ -1,0 +1,61 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Animales 1",
+    "en": "Animals 1",
+    "fi": "Eläimet 1"
+  },
+  "data": [{
+    "es": "el oso",
+    "en": "a bear",
+    "fi": "karhu"
+  },{
+    "es": "el gato",
+    "en": "a cat",
+    "fi": "kissa"
+  },{
+    "es": "el perro",
+    "en": "a dog",
+    "fi": "koira"
+  },{
+    "es": "el pez",
+    "en": "a fish",
+    "fi": "kala"
+  },{
+    "es": "el caballo",
+    "en": "a horse",
+    "fi": "hevonen"
+  },{
+    "es": "el gatito",
+    "en": "a kitten",
+    "fi": "kissanpoikanen"
+  },{
+    "es": "el mono",
+    "en": "a monkey",
+    "fi": "apina"
+  },{
+    "es": "el ratón",
+    "en": "a mouse",
+    "fi": "hiiri"
+  },{
+    "es": "la rata",
+    "en": "a rat",
+    "fi": "rotta"
+  },{
+    "es": "la ardilla",
+    "en": "a squirrel",
+    "fi": "orava"
+  },{
+    "es": "el conejo",
+    "en": "a rabbit",
+    "fi": "jänis"
+  },{
+    "es": "el lobo",
+    "en": "a wolf",
+    "fi": "susi"
+  },{
+    "es": "la oveja",
+    "en": "a sheep",
+    "fi": "lammas"
+  }]
+}

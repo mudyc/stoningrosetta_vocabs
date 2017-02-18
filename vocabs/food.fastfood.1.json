@@ -1,0 +1,41 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Comida rápida 1",
+    "en": "Fastfood 1",
+    "fi": "Pikaruoka 1"
+  },
+  "data": [{
+    "es": "la hamburguesa",
+    "en": "a hamburger",
+    "fi": "hampurilainen"
+  },{
+    "es": "las papas fritas",
+    "en": "french fries",
+    "fi": "ranskalaiset perunat"
+  },{
+    "es": "la pizza",
+    "en": "pizza",
+    "fi": "pizza"
+  },{
+    "es": "pancho",
+    "en": "hotdog",
+    "fi": "hotdog"
+  },{
+    "es": "la salchicha",
+    "en": "sausage",
+    "fi": "makkara"
+  },{
+    "es": "bebida gaseosa",
+    "en": "soda",
+    "fi": "virvoitusjuoma"
+  },{
+    "es": "comida basura",
+    "en": "junk food",
+    "fi": "roskaruoka"
+  },{
+    "es": "refresco",
+    "en": "soft drink",
+    "fi": "limsa"
+  }]
+}

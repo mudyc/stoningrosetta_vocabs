@@ -1,0 +1,73 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "La comida 1",
+    "en": "Food 1",
+    "fi": "Ruoka 1"
+  },
+  "data": [{
+    "es": "el aperitivo",
+    "en": "the appetizer",
+    "fi": "alkuruoka"
+  },{
+    "es": "el desayno",
+    "en": "the breakfast",
+    "fi": "välipala"
+  },{
+    "es": "el almuerzo",
+    "en": "the lunch",
+    "fi": "lounas"
+  },{
+    "es": "el pollo",
+    "en": "the chicken",
+    "fi": "kana"
+  },{
+    "es": "el postre",
+    "en": "the dessert",
+    "fi": "jälkiruoka"
+  },{
+    "es": "la cena",
+    "en": "the dinner",
+    "fi": "päivällinen"
+  },{
+    "es": "el pescado",
+    "en": "the fish (cooked)",
+    "fi": "kala"
+  },{
+    "es": "la carne",
+    "en": "meat",
+    "fi": "liha"
+  },{
+    "es": "las verduras",
+    "en": "vegetables",
+    "fi": "kasvikset"
+  },{
+    "es": "la ensalada",
+    "en": "salad",
+    "fi": "salaatti"
+  },{
+    "es": "la leche",
+    "en": "milk",
+    "fi": "maito"
+  },{
+    "es": "el agua",
+    "en": "water",
+    "fi": "vesi"
+  },{
+    "es": "la sopa",
+    "en": "soup",
+    "fi": "soppa"
+  },{
+    "es": "la salsa",
+    "en": "the sauce",
+    "fi": "kastike"
+  },{
+    "es": "la salt",
+    "en": "the salt",
+    "fi": "suola"
+  },{
+    "es": "el azúcar",
+    "en": "sugar",
+    "fi": "sokeri"
+  }]
+}
