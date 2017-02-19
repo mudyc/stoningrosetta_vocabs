@@ -1,0 +1,77 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Estar + participio pasado",
+    "en": "To be + past participle",
+    "fi": "Olla + partisiipin perfekti"
+  },
+  "data": [{
+    "es": "Estoy sentado",
+    "en": "I am sitting down",
+    "fi": "Olen istumassa"
+  },{
+    "es": "Están cansados",
+    "en": "They are tired",
+    "fi": "He ovat väsyneitä"
+  },{
+    "es": "La chica es cansada",
+    "en": "The girl is tired",
+    "fi": "Tyttö on väsynyt"
+  },{
+    "es": "Están casados",
+    "en": "They are married",
+    "fi": "He ovat naimisissa"
+  },{
+    "es": "Estas tortillas están llenas",
+    "en": "These tortillas are full",
+    "fi": "Nämä tortillat ovat täynnä"
+  },{
+    "es": "Las ropas están limpias",
+    "en": "The clothes are clean",
+    "fi": "Vaatteet ovat puhtaat"
+  },{
+    "es": "El libro está abierto",
+    "en": "The book is open",
+    "fi": "Kirja on auki"
+  },{
+    "es": "La ventana está abierta",
+    "en": "The window is open",
+    "fi": "Ikkuna on auki"
+  },{
+    "es": "El libro está cerrado",
+    "en": "The book is closed",
+    "fi": "Kirja on suljettu"
+  },{
+    "es": "La ventana está cerrada",
+    "en": "The window is closed",
+    "fi": "Ikkuna on suljettu"
+  },{
+    "es": "Los coches están rotos",
+    "en": "The cars are broken",
+    "fi": "Autot ovat rikki"
+  },{
+    "es": "Los coches están sucios",
+    "en": "The cars are dirty",
+    "fi": "Autot ovat likaisia"
+  },{
+    "es": "Los coches están limpios",
+    "en": "The cars are clean",
+    "fi": "Autot ovat likaisia"
+  },{
+    "es": "¿Estas enfermo?",
+    "en": "Are you sick?",
+    "fi": "Oletko sairas?"
+  },{
+    "es": "¿Estas libre esta noche?",
+    "en": "Are you free tonigh?",
+    "fi": "Oletko vapaa tänä iltana?"
+  },{
+    "es": "Estáis muy tristes",
+    "en": "You are very sad",
+    "fi": "Te olette hyvin surullisia"
+  },{
+    "es": "La torta está rota",
+    "en": "The cake is broken",
+    "fi": "Kakku on rikki"
+  }]
+}
