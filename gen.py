@@ -5,6 +5,9 @@ import json
 vocabs = listdir('vocabs')
 metas = {}
 for vocab in vocabs:
+    if '.json~' in vocab:
+        continue
+
     # check json format
     try:
         with open(join('vocabs', vocab)) as data_file:
