@@ -6,7 +6,7 @@
     "fi": "Olla + partisiipin perfekti"
   },
   "data": [{
-    "es": "Estoy sentado",
+    "es": "Estoy sentado/a",
     "en": "I am sitting down",
     "fi": "Olen istumassa"
   },{
@@ -14,7 +14,7 @@
     "en": "They are tired",
     "fi": "He ovat väsyneitä"
   },{
-    "es": "La chica es cansada",
+    "es": "La chica está cansada",
     "en": "The girl is tired",
     "fi": "Tyttö on väsynyt"
   },{
@@ -58,11 +58,11 @@
     "en": "The cars are clean",
     "fi": "Autot ovat likaisia"
   },{
-    "es": "¿Estas enfermo?",
+    "es": "¿Estás enfermo?",
     "en": "Are you sick?",
     "fi": "Oletko sairas?"
   },{
-    "es": "¿Estas libre esta noche?",
+    "es": "¿Estás libre esta noche?",
     "en": "Are you free tonigh?",
     "fi": "Oletko vapaa tänä iltana?"
   },{
