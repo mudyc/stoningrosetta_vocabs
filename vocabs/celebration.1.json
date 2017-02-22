@@ -1,0 +1,69 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "La fiesta 1",
+    "en": "Celebration 1",
+    "fi": "Juhlat 1"
+  },
+  "data": [{
+    "es": "la fiesta",
+    "en": "celebration / party",
+    "fi": "juhla"
+  },{
+    "es": "el regalo",
+    "en": "a present",
+    "fi": "lahja"
+  },{
+    "es": "¿Celebras tu cumpleaños?",
+    "en": "Do you celebrate your birthday?",
+    "fi": "Juhlitko syntymäpäivääsi?"
+  },{
+    "es": "¿Celebras tu Santo?",
+    "en": "Do you celebrate your name day?",
+    "fi": "Juhlitko nimipäivääsi?"
+  },{
+    "es": "el pastel (esp)",
+    "en": "a cake",
+    "fi": "kakku"
+  },{
+    "es": "la torta (AL)",
+    "en": "a cake",
+    "fi": "kakku"
+  },{
+    "es": "invitar",
+    "en": "to invitate",
+    "fi": "kutsua"
+  },{
+    "es": "cumplir",
+    "en": "turn (age)",
+    "fi": "täyttää"
+  },{
+    "es": "la piñata",
+    "en": "candy filled object",
+    "fi": "piñata"
+  },{
+    "es": "Darle palo a la piñata",
+    "en": "Give stick to the piñata",
+    "fi": "Lyödä piñataa"
+  },{
+    "es": "el cumpleaños",
+    "en": "birthday",
+    "fi": "syntymäpäivä"
+  },{
+    "es": "celebrar",
+    "en": "celebrate",
+    "fi": "juhlia"
+  },{
+    "es": "invitado/a",
+    "en": "a guest",
+    "fi": "vieras"
+  },{
+    "es": "el globo",
+    "en": "a balloon",
+    "fi": "ilmapallo"
+  },{
+    "es": "Hacer un regalo",
+    "en": "To give a present",
+    "fi": "Antaa lahja"
+  }]
+}

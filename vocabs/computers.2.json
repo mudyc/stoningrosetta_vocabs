@@ -1,0 +1,65 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Computadora 1",
+    "en": "Computers 1",
+    "fi": "Tietokoneet"
+  },
+  "data": [{
+    "es": "memoria",
+    "en": "memory",
+    "fi": "muisti"
+  },{
+    "es": "teclado",
+    "en": "keyboard",
+    "fi": "näppäimistö"
+  },{
+    "es": "pantalla",
+    "en": "screen",
+    "fi": "näyttö"
+  },{
+    "es": "la tableta",
+    "en": "tablet",
+    "fi": "tabletti"
+  },{
+    "es": "Internauta",
+    "en": "Internet user",
+    "fi": "Internet käyttäjä"
+  },{
+    "es": "connectado / desconnectado",
+    "en": "on-line / off-line",
+    "fi": "verkossa / ilman verkkoyhteyttä"
+  },{
+    "es": "el cargador",
+    "en": "charger",
+    "fi": "laturi"
+  },{
+    "es": "página de inicio",
+    "en": "homepage",
+    "fi": "kotisivu"
+  },{
+    "es": "apagar",
+    "en": "shut down",
+    "fi": "sammuttaa"
+  },{
+    "es": "copia de seguridad",
+    "en": "backup",
+    "fi": "varmuuskopio"
+  },{
+    "es": "pegar",
+    "en": "paste",
+    "fi": "liimata"
+  },{
+    "es": "editar",
+    "en": "edit",
+    "fi": "editoida"
+  },{
+    "es": "copiar",
+    "en": "copy",
+    "fi": "kopioida"
+  },{
+    "es": "cortar",
+    "en": "cut",
+    "fi": "leikata"
+  }]
+}

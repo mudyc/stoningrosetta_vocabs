@@ -1,0 +1,85 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Computadora 1",
+    "en": "Computers 1",
+    "fi": "Tietokoneet 1"
+  },
+  "data": [{
+    "es": "escritorio",
+    "en": "desktop",
+    "fi": "työpöytä"
+  },{
+    "es": "archivo",
+    "en": "file",
+    "fi": "tiedosto"
+  },{
+    "es": "la carpeta",
+    "en": "directory",
+    "fi": "kansio"
+  },{
+    "es": "borrar",
+    "en": "delete",
+    "fi": "tuhota/poistaa"
+  },{
+    "es": "guardar como",
+    "en": "save as",
+    "fi": "tallenna"
+  },{
+    "es": "buscar",
+    "en": "search",
+    "fi": "etsiä"
+  },{
+    "es": "ayuda",
+    "en": "help",
+    "fi": "ohje/apua"
+  },{
+    "es": "navegador",
+    "en": "browser",
+    "fi": "selain"
+  },{
+    "es": "página web",
+    "en": "web page",
+    "fi": "veppisivu"
+  },{
+    "es": "enlace",
+    "en": "a link",
+    "fi": "linkki"
+  },{
+    "es": "contraseña",
+    "en": "password",
+    "fi": "salasana"
+  },{
+    "es": "usuario/a",
+    "en": "user",
+    "fi": "käyttjätunnus"
+  },{
+    "es": "entrar",
+    "en": "login",
+    "fi": "sisäänkirjaus"
+  },{
+    "es": "salir",
+    "en": "logout",
+    "fi": "uloskirjaus"
+  },{
+    "es": "la Red",
+    "en": "the Net",
+    "fi": "netti"
+  },{
+    "es": "un servidor",
+    "en": "a server",
+    "fi": "serveri"
+  },{
+    "es": "enviar",
+    "en": "send",
+    "fi": "lähettää"
+  },{
+    "es": "descargar",
+    "en": "download",
+    "fi": "ladata (koneelle)"
+  },{
+    "es": "subir",
+    "en": "upload",
+    "fi": "ladata (koneelta)"
+  }]
+}
