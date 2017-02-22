@@ -1,0 +1,93 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Desporte 1",
+    "en": "Sports 1",
+    "fi": "Urheilu 1"
+  },
+  "data": [{
+    "es": "fútbol",
+    "en": "football",
+    "fi": "jalkapallo"
+  },{
+    "es": "tenis",
+    "en": "tennis",
+    "fi": "tennis"
+  },{
+    "es": "ciclismo",
+    "en": "cycling",
+    "fi": "pyöräily"
+  },{
+    "es": "béisbol",
+    "en": "baseball",
+    "fi": "pesäpallo"
+  },{
+    "es": "basquetbol (baloncesto)",
+    "en": "basketball",
+    "fi": "koripallo"
+  },{
+    "es": "baile",
+    "en": "dance",
+    "fi": "tanssi"
+  },{
+    "es": "hockey sobre hielo",
+    "en": "ice hockey",
+    "fi": "jääkiekko"
+  },{
+    "es": "unihockey / hockey de verano",
+    "en": "floorball",
+    "fi": "salibandy"
+  },{
+    "es": "rally",
+    "en": "rally",
+    "fi": "ralli"
+  },{
+    "es": "formula 1",
+    "en": "formula 1",
+    "fi": "formula 1"
+  },{
+    "es": "esqui-salto",
+    "en": "ski jump",
+    "fi": "mäkihyppy"
+  },{
+    "es": "béisbol finlandés",
+    "en": "Finnish baseball",
+    "fi": "(Suomalainen) Pesäpallo"
+  },{
+    "es": "snowboarding",
+    "en": "snowboarding",
+    "fi": "lumilautailu"
+  },{
+    "es": "esqui acuático",
+    "en": "water skiing",
+    "fi": "vesihiihto"
+  },{
+    "es": "patinar",
+    "en": "to skate",
+    "fi": "luistelu"
+  },{
+    "es": "javalina",
+    "en": "javelin",
+    "fi": "keihäs"
+  },{
+    "es": "orientación",
+    "en": "orientation",
+    "fi": "suunnistus"
+  },{
+    "es": "natación",
+    "en": "swimming",
+    "fi": "uinti"
+  },{
+    "es": "esquí",
+    "en": "skiing",
+    "fi": "hiihto"
+  },{
+    "es": "esquí de fondo",
+    "en": "cross-coyntry skiing",
+    "fi": "murtomaahiihto"
+  },{
+    "es": "esquí alpino",
+    "en": "Alpine (/downhill) skiing",
+    "fi": "syöksylasku"
+  }]
+}
