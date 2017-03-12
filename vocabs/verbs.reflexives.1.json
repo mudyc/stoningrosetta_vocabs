@@ -1,0 +1,73 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Verbos reflexivos 1",
+    "en": "Verbs reflexives 1",
+    "fi": "Reflexiiviverbit 1"
+  },
+  "data": [{
+    "es": "bañarse",
+    "en": "to bathe",
+    "fi": ""
+  },{
+    "es": "despertarse",
+    "en": "to wake up",
+    "fi": "herätä"
+  },{
+    "es": "duscharse",
+    "en": "to shower",
+    "fi": "käydä suihkussa"
+  },{
+    "es": "lavarse",
+    "en": "to wash",
+    "fi": "peseytyä"
+  },{
+    "es": "desayunar",
+    "en": "eat breakfast",
+    "fi": "syödä aamupalaa"
+  },{
+    "es": "sentarse",
+    "en": "to sit",
+    "fi": "istuutua"
+  },{
+    "es": "sentirse",
+    "en": "to feel",
+    "fi": "tuntea"
+  },{
+    "es": "vestirse",
+    "en": "to get dressed",
+    "fi": "pukea päälle"
+  },{
+    "es": "dormirse",
+    "en": "to fall asleep",
+    "fi": "nukahtaa"
+  },{
+    "es": "acostarse",
+    "en": "to go to bed",
+    "fi": "mennä vuoteeseen"
+  },{
+    "es": "quitarse",
+    "en": "to undress",
+    "fi": "riisuutua"
+  },{
+    "es": "maquillarse",
+    "en": "to make-up",
+    "fi": "meikata"
+  },{
+    "es": "cepillarse los dientes",
+    "en": "to brush teeth",
+    "fi": "harjata hampaat"
+  },{
+    "es": "cepillarse el pelo",
+    "en": "to brush hair",
+    "fi": "harjata hiukset"
+  },{
+    "es": "afeitarse",
+    "en": "to shave",
+    "fi": "ajaa parta"
+  },{
+    "es": "despedirse de",
+    "en": "to say goodbye",
+    "fi": "sanoa näkemiin"
+  }]
+}
