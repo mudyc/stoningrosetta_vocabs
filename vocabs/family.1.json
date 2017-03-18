@@ -1,0 +1,65 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "La familia",
+    "en": "The family",
+    "fi": "Perhe ja sukulaiset"
+  },
+  "data": [{
+    "es": "la madre",
+    "en": "a mother",
+    "fi": "äiti"
+  },{
+    "es": "el padre",
+    "en": "a father",
+    "fi": "isä"
+  },{
+    "es": "el hijo",
+    "en": "a sun",
+    "fi": "poika"
+  },{
+    "es": "la hija",
+    "en": "a daughter",
+    "fi": "tytär"
+  },{
+    "es": "el abuelo",
+    "en": "grand father",
+    "fi": "isoisä"
+  },{
+    "es": "la abuela",
+    "en": "grand mother",
+    "fi": "isoäiti"
+  },{
+    "es": "la mujer",
+    "en": "a wife",
+    "fi": "vaimo"
+  },{
+    "es": "el hombre",
+    "en": "a husband",
+    "fi": "mies"
+  },{
+    "es": "primo/a",
+    "en": "a cousin",
+    "fi": "serkku"
+  },{
+    "es": "padres",
+    "en": "parents",
+    "fi": "vanhemmat"
+  },{
+    "es": "la hermana",
+    "en": "a sister",
+    "fi": "sisko"
+  },{
+    "es": "el hermano",
+    "en": "a brother",
+    "fi": "veli"
+  },{
+    "es": "tío",
+    "en": "an uncle",
+    "fi": "setä/eno"
+  },{
+    "es": "tía",
+    "en": "an aunt",
+    "fi": "täti"
+  }]
+}
