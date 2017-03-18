@@ -7,22 +7,22 @@
   },
   "data": [{
     "dir": ">",
-    "es": "Aquí está un boll.",
+    "es": "Aquí está una pelota.",
     "en": "Here is a ball.",
     "fi": "Tässä on pallo."
   },{
     "dir": "<",
-    "es": "Me lo das, por favor.",
+    "es": "Me la das, por favor.",
     "en": "Give it to me, please.",
     "fi": "Anna se minulle, kiitos."
   },{
     "dir": ">",
-    "es": "¿Porque lo necesitas?",
+    "es": "¿Porque la necesitas?",
     "en": "Why do you need it?",
     "fi": "Miksi tarvitset sen?"
   },{
     "dir": "<",
-    "es": "Se lo doy a mi perro.",
+    "es": "Se la doy a mi perro.",
     "en": "I give it to my dog.",
     "fi": "Annan sen koiralleni."
   },{
@@ -32,58 +32,48 @@
     "fi": "Mutta eikö se riko sitä?"
   },{
     "dir": "<",
-    "es": "No",
-    "en": "No",
-    "fi": "Ei"
+    "es": "No, jugamos con ella.",
+    "en": "No, we play with it.",
+    "fi": "Ei, leikimme sillä."
   },{
     "dir": ">",
-    "es": "¿Qué le hace?",
-    "en": "What does it do to it?",
-    "fi": "Mitä se tekee sille?"
+    "es": "¿Puede tirlarla primero?",
+    "en": "Can I throw first?",
+    "fi": "Voinko heittää ensin?"
   },{
     "dir": "<",
-    "es": "Lo come.",
-    "en": "It eats it.",
-    "fi": "Se syö sen."
+    "es": "Por supuesto.",
+    "en": "Sure.",
+    "fi": "Tottakai."
   },{
     "dir": ">",
-    "es": "¿Pero no se rompió entonces?",
-    "en": "But is it not break then?",
-    "fi": "Mutta eikö se silloin ole rikki?"
+    "es": "¿Puedo tirarla tan largo que se despida?",
+    "en": "Can I throw it so long that it dismiss?",
+    "fi": "Voinko heittää sen niin pitkälle että se katoaa?"
   },{
     "dir": "<",
-    "es": "No siempre.",
-    "en": "Not always.",
-    "fi": "Ei aina."
+    "es": "Por favor, inténtelo.",
+    "en": "Please, try it out.",
+    "fi": "Kokeile vain."
   },{
     "dir": ">",
-    "es": "¿Pero?",
-    "en": "But?",
-    "fi": "Vaan?"
+    "es": "¿Ya la devolvió el perro?",
+    "en": "Did the dog return it already?",
+    "fi": "Palauttiko koira sen jo?"
   },{
     "dir": "<",
-    "es": "Lo come como un todo.",
-    "en": "It eats it as a whole.",
-    "fi": "Se syö sen kokonaisena."
+    "es": "Te la da.",
+    "en": "It gives it to you.",
+    "fi": "Se antaa sen sinulle."
   },{
     "dir": ">",
-    "es": "¿No es peligroso para él?",
-    "en": "Isn't it dangerous for it?",
-    "fi": "Eikö se ole vaarallista sille?"
+    "es": "Es muy agradable. ¿Puede regalo a mí?",
+    "en": "It is very nice. Can you gift it to me?",
+    "fi": "Se on oikein mukava. Voitko lahjoittaa sen minulle?"
   },{
     "dir": "<",
-    "es": "Si se queda dentro, sí.",
-    "en": "If it stucks inside, yes.",
-    "fi": "Kyllä jos se pysähtyy sisäpuolelle."
-  },{
-    "dir": ">",
-    "es": "Luego se coge el perro.",
-    "en": "Then it catches the dog.",
-    "fi": "Silloin se nappaisi koiran."
-  },{
-    "dir": "<",
-    "es": "Desafortunadamente.",
-    "en": "Unfortuntely.",
-    "fi": "Valitettavasti."
+    "es": "Por desgracia no puedo regalo a usted.",
+    "en": "Unfortunately I cannot gift it to you.",
+    "fi": "Valitettavasti en voi lahjoittaa sitä sinulle."
   }]
 }
