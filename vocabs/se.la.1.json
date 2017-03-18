@@ -1,0 +1,89 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Accusativo + dativo",
+    "en": "Accusative + dative (esp)",
+    "fi": "Akkusatiivi + datiivi(esp)"
+  },
+  "data": [{
+    "dir": ">",
+    "es": "Aquí está un boll.",
+    "en": "Here is a ball.",
+    "fi": "Tässä on pallo."
+  },{
+    "dir": "<",
+    "es": "Me lo das, por favor.",
+    "en": "Give it to me, please.",
+    "fi": "Anna se minulle, kiitos."
+  },{
+    "dir": ">",
+    "es": "¿Porque lo necesitas?",
+    "en": "Why do you need it?",
+    "fi": "Miksi tarvitset sen?"
+  },{
+    "dir": "<",
+    "es": "Se lo doy a mi perro.",
+    "en": "I give it to my dog.",
+    "fi": "Annan sen koiralleni."
+  },{
+    "dir": ">",
+    "es": "¿Pero no lo va a romper?",
+    "en": "But isn't it going to break it?",
+    "fi": "Mutta eikö se riko sitä?"
+  },{
+    "dir": "<",
+    "es": "No",
+    "en": "No",
+    "fi": "Ei"
+  },{
+    "dir": ">",
+    "es": "¿Qué le hace?",
+    "en": "What does it do to it?",
+    "fi": "Mitä se tekee sille?"
+  },{
+    "dir": "<",
+    "es": "Lo come.",
+    "en": "It eats it.",
+    "fi": "Se syö sen."
+  },{
+    "dir": ">",
+    "es": "¿Pero no se rompió entonces?",
+    "en": "But is it not break then?",
+    "fi": "Mutta eikö se silloin ole rikki?"
+  },{
+    "dir": "<",
+    "es": "No siempre.",
+    "en": "Not always.",
+    "fi": "Ei aina."
+  },{
+    "dir": ">",
+    "es": "¿Pero?",
+    "en": "But?",
+    "fi": "Vaan?"
+  },{
+    "dir": "<",
+    "es": "Lo come como un todo.",
+    "en": "It eats it as a whole.",
+    "fi": "Se syö sen kokonaisena."
+  },{
+    "dir": ">",
+    "es": "¿No es peligroso para él?",
+    "en": "Isn't it dangerous for it?",
+    "fi": "Eikö se ole vaarallista sille?"
+  },{
+    "dir": "<",
+    "es": "Si se queda dentro, sí.",
+    "en": "If it stucks inside, yes.",
+    "fi": "Kyllä jos se pysähtyy sisäpuolelle."
+  },{
+    "dir": ">",
+    "es": "Luego se coge el perro.",
+    "en": "Then it catches the dog.",
+    "fi": "Silloin se nappaisi koiran."
+  },{
+    "dir": "<",
+    "es": "Desafortunadamente.",
+    "en": "Unfortuntely.",
+    "fi": "Valitettavasti."
+  }]
+}
