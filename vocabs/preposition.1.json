@@ -1,0 +1,73 @@
+{
+  "depends": [],
+  "langs": {
+    "es": "Preposiciones 1",
+    "en": "Prepositions 1",
+    "fi": "Prepositiot 1"
+  },
+  "data": [{
+    "es": "en Madrid",
+    "en": "in Madrid",
+    "fi": "Madridissa"
+  },{
+    "es": "a stacion",
+    "en": "to station",
+    "fi": "asemalle"
+  },{
+    "es": "delante (de)",
+    "en": "in front (of)",
+    "fi": "edessä"
+  },{
+    "es": "detrás (de)",
+    "en": "behind (of)",
+    "fi": "takana"
+  },{
+    "es": "al lado (de)",
+    "en": "next (to)",
+    "fi": "vieressä"
+  },{
+    "es": "entre",
+    "en": "between",
+    "fi": "välissä"
+  },{
+    "es": "al final (de)",
+    "en": "at end (of)",
+    "fi": "päässä, lopussa"
+  },{
+    "es": "debajo (de)",
+    "en": "below (of)",
+    "fi": "alla"
+  },{
+    "es": "sobre",
+    "en": "abowe",
+    "fi": "päällä"
+  },{
+    "es": "encima (de)",
+    "en": "on top (of)",
+    "fi": "päällä, yläpuolella"
+  },{
+    "es": "cerca (de)",
+    "en": "near (of)",
+    "fi": "lähellä"
+  },{
+    "es": "lejos (de)",
+    "en": "far (of)",
+    "fi": "kaukana"
+  },{
+    "es": "a la derecha (de)",
+    "en": "right (of)",
+    "fi": "oikealla"
+  },{
+    "es": "a la izquierda (de)",
+    "en": "left (of)",
+    "fi": "vasemmalla"
+  },{
+    "es": "alrededor (de)",
+    "en": "around (of)",
+    "fi": "ympärillä"
+  },{
+    "es": "enfrente (de)",
+    "en": "opposite (of)",
+    "fi": "vastapäätä"
+  }]
+}

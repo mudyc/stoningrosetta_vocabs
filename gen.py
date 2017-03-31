@@ -5,6 +5,9 @@ import json
 vocabs = listdir('vocabs')
 metas = {}
 for vocab in vocabs:
+    if not '.json' in vocab:
+        continue
+
     if '.json~' in vocab:
         continue
 
